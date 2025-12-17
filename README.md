@@ -4,6 +4,6 @@
 
 💞️ I'm actively seeking opportunities to collaborate on exciting frontend projects that challenge and inspire creativity. Whether it's contributing to open-source initiatives or collaborating on innovative web applications, I'm eager to work with like-minded individuals and teams.
 
-📫 You can reach me through my GitHub profile or connect with me on LinkedIn https://www.linkedin.com/in/pawan-kumar-61ab721a7/. Feel free to reach out if you have interesting projects, ideas, or just want to discuss anything related to frontend development.
+. Feel free to reach out if you have interesting projects, ideas, or just want to discuss anything related to frontend development.
 
 ⚡ Fun fact: When I'm not immersed in code, you'll likely find me exploring new coffee shops, experimenting with photography, or enjoying a good book on design principles.
