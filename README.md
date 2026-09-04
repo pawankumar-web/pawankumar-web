@@ -1,9 +1,28 @@
-👋 Hi, I'm Pawan Kumar, a passionate frontend developer with a keen interest in creating visually appealing and user-friendly web interfaces. 👀 I'm fascinated by the ever-evolving world of web technologies and design trends, constantly seeking to enhance my skills and stay up-to-date with the latest developments in the field.
+# 👋 Hi, I'm Pawan Kumar
 
-🌱 Currently, I'm learning and mastering modern frontend frameworks like React.js to build dynamic and responsive web applications. I believe in continuous learning and am dedicated to refining my craft to deliver the best possible user experiences.
+### ☁️ Cloud Engineer | DevOps | AWS | CI/CD
 
-💞️ I'm actively seeking opportunities to collaborate on exciting frontend projects that challenge and inspire creativity. Whether it's contributing to open-source initiatives or collaborating on innovative web applications, I'm eager to work with like-minded individuals and teams.
+Building **scalable cloud infrastructure, automated CI/CD pipelines, and containerized applications**.
 
-. Feel free to reach out if you have interesting projects, ideas, or just want to discuss anything related to frontend development.
+### 🛠️ Tech Stack
 
-⚡ Fun fact: When I'm not immersed in code, you'll likely find me exploring new coffee shops, experimenting with photography, or enjoying a good book on design principles.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,githubactions,jenkins,git,nginx,prometheus,grafana" />
+</p>
+
+### 🚀 What I Work With
+
+**☁️ Cloud:** AWS • Azure
+**⚙️ DevOps:** CI/CD • GitHub Actions • Jenkins
+**🐳 Containers:** Docker • Kubernetes
+**🏗️ IaC:** Terraform
+**🐧 Systems:** Linux • Nginx
+**📊 Monitoring:** CloudWatch • Prometheus • Grafana
+
+### 📌 Currently Focused On
+
+`AWS` `DevOps` `Kubernetes` `Terraform` `CI/CD` `Cloud Automation`
+
+---
+
+⭐ *Build • Automate • Deploy • Monitor*
